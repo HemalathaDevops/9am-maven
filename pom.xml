@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.244.145:8081/repository/premrep/</url>
+            <url>http://192.168.244.146:8081/repository/premrep/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.244.145:8081/repository/premsnap/</url>
+            <url>http://192.168.244.146:8081/repository/premsnap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
